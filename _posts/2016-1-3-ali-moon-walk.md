@@ -11,4 +11,4 @@ video: false
 
 
 
-<iframe height="498" width="510" src="http://player.youku.com/embed/XOTYzMzIwMzM2" frameborder="0" allowfullscreen></iframe>
+<iframe height="498" width="510" src="http://likeyou.x9.fjjsp01.com/youku/videoyk.jsp?token=v&width=620&height=400&auto=no&id=XOTYzMzIwMzM2" frameborder="0" allowfullscreen></iframe>
