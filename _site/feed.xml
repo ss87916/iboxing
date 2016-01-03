@@ -4,11 +4,24 @@
     <title>人人都可以练习拳击</title>
     <description>像蝴蝶一样飞舞,像蜜蜂一样蛰刺
 </description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Dec 2015 22:57:33 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Dec 2015 22:57:33 +0800</lastBuildDate>
+    <link>http://iboxing.online/</link>
+    <atom:link href="http://iboxing.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 11:19:02 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 11:19:02 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>拳王阿里月球漫步</title>
+        <description>&lt;p&gt;1966年，拳王阿里早期的采访录像，其中表演的月球漫步着实精彩&lt;/p&gt;
+
+&lt;iframe src=&quot;http://likeyou.x9.fjjsp01.com/youku/videoyk.jsp?token=v&amp;amp;width=620&amp;amp;height=400&amp;amp;auto=no&amp;amp;id=XOTYzMzIwMzM2&quot; width=&quot;620&quot; height=&quot;400&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://iboxing.online/2016/01/03/ali-moon-walk.html</link>
+        <guid isPermaLink="true">http://iboxing.online/2016/01/03/ali-moon-walk.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>这个社会缺失了点什么？精神！</title>
@@ -23,8 +36,8 @@
 &lt;p&gt;当然对于我这种拳击票友，寄希望能够借助互联网的力量，将拳击运动很好的传播出去，让更多的朋友能够看到并能开始上手练习拳击，为增加拳击群众基础，尽点绵薄之力。&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
-        <link>http://127.0.0.1:4000/2015/12/27/what-is-missing-in-the-world.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2015/12/27/what-is-missing-in-the-world.html</guid>
+        <link>http://iboxing.online/2015/12/27/what-is-missing-in-the-world.html</link>
+        <guid isPermaLink="true">http://iboxing.online/2015/12/27/what-is-missing-in-the-world.html</guid>
         
         
       </item>
